@@ -68,19 +68,19 @@
 	<LocalizedText>		<!-- Kartennamen -->
 	
 		<Replace Tag="LOC_YNAGEM_NAME" Language="de_DE">
-		  <Text>Riesige Erde</Text>
+		  <Text>Gigantische Erde</Text>
 		</Replace>
 		<Replace Tag="LOC_YNAGEM_DESC" Language="de_DE">
-		  <Text>Genghis Kai's GEM (Hormigas-Version) (180x94 - Riesig)</Text>
+		  <Text>Genghis Kai's GEM (Hormigas-Version) (180x94 - Gigantisch)</Text>
 		</Replace>
 		<Replace Tag="LOC_GREATESTEARTH_NAME" Language="de_DE">
-		  <Text>Größte Erde Karte</Text>
+		  <Text>"Beste-Erde"-Karte</Text>
 		</Replace>
 		<Replace Tag="LOC_GREATESTEARTH_DESC" Language="de_DE">
-		  <Text>Größte Erde Karte von djvandyke (104x64 - Groß)</Text>
+		  <Text>"Beste-Erde"-Karte von djvandyke (104x64 - Groß)</Text>
 		</Replace>
 		<Replace Tag="LOC_PLAYEUROPEAGAIN_NAME" Language="de_DE">
-		  <Text>Spiele Europa Wieder</Text>
+		  <Text>Europa Wieder Spielen</Text>
 		</Replace>
 		<Replace Tag="LOC_PLAYEUROPEAGAIN_DESC" Language="de_DE">
 		  <Text>NiRv4n4's Europa (Hormigas-Version) (108x98 - Riesig)</Text>
@@ -98,10 +98,10 @@
 		  <Text>Eine Karte mit anpassbarer Landmassen-Platzierung, basierend auf einer skalierbaren Erde</Text>
 		</Replace>
 		<Replace Tag="LOC_LARGESTEARTHCUSTOM_NAME" Language="de_DE">
-		  <Text>[COLOR_RED]Größte Erde Custom[ENDCOLOR]</Text>
+		  <Text>[COLOR_RED]Größte-Erde-Benutzerdefiniert[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Tag="LOC_LARGESTEARTHCUSTOM_DESC" Language="de_DE">
-		  <Text>Größte Erde Benutzerdefiniert (230x116 - Gigantisch)[NEWLINE][ICON_Exclamation] [COLOR_RED]SEHR INSTABIL bei voller Größe[ENDCOLOR][NEWLINE]Verwende die benutzerdefinierten Optionen, um ein Spiel in einer Region der Karte zu starten.</Text>
+		  <Text>Größte-Erde-Benutzerdefiniert (230x116 - Überdimensioniert)[NEWLINE][ICON_Exclamation] [COLOR_RED]SEHR INSTABIL bei voller Größe[ENDCOLOR][NEWLINE]Verwende die benutzerdefinierten Optionen, um ein Spiel in einer Region der Karte zu starten.</Text>
 		</Replace>
 
 	</LocalizedText>

@@ -18,16 +18,16 @@
 	<!-- New entries -->
     
 	<Replace Tag="LOC_YNAGEM_NAME" Language="de_DE">
-      <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - [COLOR_RED]Riesige Erde[ENDCOLOR]</Text>
+      <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - [COLOR_RED]Gigantische Erde[ENDCOLOR]</Text>
     </Replace>
     <Replace Tag="LOC_YNAGEM_DESC" Language="de_DE">
-      <Text>Genghis Kai's GEM (Hormigas-Version) (180x94 - Riesig)[NEWLINE][ICON_Exclamation] [COLOR_RED]UNSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduziere deine Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]6+ GB VRAM empfohlen</Text>
+      <Text>Genghis Kai's GEM (Hormigas-Version) (180x94 - Gigantisch)[NEWLINE][ICON_Exclamation] [COLOR_RED]UNSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduziere deine Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]6+ GB VRAM empfohlen</Text>
     </Replace>
     <Replace Tag="LOC_GREATESTEARTH_NAME" Language="de_DE">
-      <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - Größte-Erde-Karte</Text>
+      <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - "Beste Erde"-Karte</Text>
     </Replace>
     <Replace Tag="LOC_GREATESTEARTH_DESC" Language="de_DE">
-      <Text>Größte-Erde-Karte von djvandyke (104x64 - Groß)</Text>
+      <Text>"Beste Erde"-Karte von djvandyke (104x64 - Groß)</Text>
     </Replace>
     <Replace Tag="LOC_PLAYEUROPEAGAIN_NAME" Language="de_DE">
       <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - Europa Wieder Spielen</Text>
@@ -51,7 +51,7 @@
       <Text>[COLOR_Civ6Blue]YnAMP[ENDCOLOR] - [COLOR_RED]Größte-Erde-Karte Benutzerdefiniert[ENDCOLOR]</Text>
     </Replace>
     <Replace Tag="LOC_LARGESTEARTHCUSTOM_DESC" Language="de_DE">
-      <Text>Größte-Erde-Karte Benutzerdefiniert (230x116 - Irrsinnig)[NEWLINE][ICON_Exclamation] [COLOR_RED]WIRD NICHT IN VOLLER GRÖSSE GELADEN ![ENDCOLOR][NEWLINE]Verwende die Anpassungsoptionen, um ein Spiel auf kleineren Regionen der Karte festzulegen.</Text>
+      <Text>Größte-Erde-Karte Benutzerdefiniert (230x116 - Überdimensioniert)[NEWLINE][ICON_Exclamation] [COLOR_RED]WIRD NICHT IN VOLLER GRÖSSE GELADEN ![ENDCOLOR][NEWLINE]Verwende die Anpassungsoptionen, um ein Spiel auf kleineren Regionen der Karte festzulegen.</Text>
     </Replace>
 	
     <Replace Tag="LOC_MAP_CIVILIZATION_PLACEMENT_NAME" Language="de_DE">
@@ -118,31 +118,31 @@
             <Text>Enorm</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_ENORMOUS_DESCRIPTION" Language="de_DE">
-            <Text>Wirklich enormes Karten für 16 Spieler (128x80)</Text>
+            <Text>Wirklich enorme Karte für 16 Spieler (128x80)</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_GIANT_NAME" Language="de_DE">
             <Text>[COLOR_RED]Gigantisch[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_GIANT_DESCRIPTION" Language="de_DE">
-            <Text>Riesige Karte für 20+ Spieler (180x94)[NEWLINE][ICON_Exclamation] [COLOR_RED]UNSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduzieren Sie Ihre Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]6+ GB VRAM empfohlen</Text>
+            <Text>Riesige Karte für 20+ Spieler (180x94)[NEWLINE][ICON_Exclamation] [COLOR_RED]INSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduzieren Sie Ihre Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]6+ GB VRAM empfohlen</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_LUDICROUS_NAME" Language="de_DE">
             <Text>[COLOR_RED]Irrsinnig[ENDCOLOR]</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_LUDICROUS_DESCRIPTION" Language="de_DE">
-            <Text>Wirst du die Geduld haben, während die Karte lädt? (200x104)[NEWLINE][ICON_Exclamation] [COLOR_RED]UNSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduzieren Sie Ihre Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]8+ GB VRAM empfohlen</Text>
+            <Text>Wirst du die Geduld haben, während die Karte lädt? (200x104)[NEWLINE][ICON_Exclamation] [COLOR_RED]INSTABIL im späten Spiel[ENDCOLOR][NEWLINE]Reduzieren Sie Ihre Grafikeinstellungen, um zufällige Abstürze zu vermeiden.[NEWLINE]8+ GB VRAM empfohlen</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_MAX_NAME" Language="de_DE">
-            <Text>Max</Text>
+            <Text>Maximal</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_MAX_DESCRIPTION" Language="de_DE">
             <Text>Maximale Arbeitsgröße auf meinem PC (i7 4770K + MSI GTX 1080 Ti + 16 GB RAM) (215x112) (Ich hätte das Datum des Tests hier angeben sollen, denn es ist schon lange her...)</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_OVERSIZED_NAME" Language="de_DE">
-            <Text>Übergroß</Text>
+            <Text>Überdimensioniert</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_OVERSIZED_DESCRIPTION" Language="de_DE">
-            <Text>Übergroß (230x116)</Text>
+            <Text>Überdimensioniert (230x116)</Text>
         </Replace>
 
         <Replace Tag="LOC_MAPSIZE_SMALL21_NAME" Language="de_DE">
@@ -173,7 +173,7 @@
             <Text>Enorm (2:1)</Text>
         </Replace>
         <Replace Tag="LOC_MAPSIZE_ENORMOUS21_DESCRIPTION" Language="de_DE">
-            <Text>Wirklich enormes Karten für 16 Spieler (140x74)</Text>
+            <Text>Wirklich enorme Karte für 16 Spieler (140x74)</Text>
         </Replace>
 
         <Replace Tag="LOC_MAP_RESOURCES_PLACEMENT_NAME" Language="de_DE">
